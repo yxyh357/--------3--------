@@ -3,6 +3,8 @@
 #include <algorithm>
 using namespace std;
 
+/*---------------encoding==utf-8----------------------*/
+
 //判断是否是自反的
 bool 是自反的(vector<vector<bool>> p)
 {
